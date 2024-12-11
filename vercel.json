@@ -1,0 +1,24 @@
+{
+    "routes": [
+        {
+            "src": "/json/stats.json",
+            "dest": "https://prb.pao.re/json/stats.json"
+        },
+        {
+            "src": "/detail",
+            "dest": "https://prb.pao.re/detail"
+        },
+        {
+            "src": "/map",
+            "dest": "https://prb.pao.re/map"
+        },
+        {
+            "src": "/i",
+            "dest": "https://prb.pao.re/i"
+        },
+        {
+            "src": "/report",
+            "dest": "https://prb.pao.re/report"
+        }
+    ]
+}
